@@ -1,3 +1,2 @@
-start.cmd
 __pycache__
-
+*.pyc
